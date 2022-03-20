@@ -1,1 +1,1 @@
-# personality-prediction
+# Marketing data analysis and prediction
