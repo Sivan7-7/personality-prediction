@@ -22,3 +22,6 @@ This project derives business insights from the marketing dataset to make sugges
 
 ### Project structure
 ![image](https://user-images.githubusercontent.com/100988537/159177243-f2419924-d333-4519-8f43-53a824e4efac.png)
+
+### Data flow
+![image](https://user-images.githubusercontent.com/100988537/159407713-76cf2033-e810-472e-bd76-75c293d7642e.png)
