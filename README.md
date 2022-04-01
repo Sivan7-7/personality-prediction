@@ -21,7 +21,8 @@ This project derives business insights from the marketing dataset to make sugges
 • TensorFlow
 
 ### Project structure
-![image](https://user-images.githubusercontent.com/100988537/159177243-f2419924-d333-4519-8f43-53a824e4efac.png)
+![image](https://user-images.githubusercontent.com/100988537/161287411-2a0b2963-fbc6-4463-95cb-20af273d5fb5.png)
+
 
 ### Data flow
-![image](https://user-images.githubusercontent.com/100988537/159407713-76cf2033-e810-472e-bd76-75c293d7642e.png)
+![image](https://user-images.githubusercontent.com/100988537/161287453-fe9a13e2-7cd7-4bc2-b059-98e7d28a346c.png)
